@@ -1,0 +1,16 @@
+body {
+    font-family: "Times New Roman", Georgia, Serif;
+    background-color: #FFF5EE;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display";
+  font-weight: bold;
+  letter-spacing: 5px;
+  color: #B22222;
+}
+
+p {
+    font-weight: normal;
+    color: #28282B;
+}
